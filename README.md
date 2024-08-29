@@ -1,3 +1,2 @@
-# my_certifications
-# Professional Certifications
-# Google's Coursera
+# My Professional Certifications
+# by Google's Coursera
